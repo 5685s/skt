@@ -1,2 +1,1 @@
-# webskt
-처음 만드는 http 웹
+<h2><a href="skt.html">SKT</a></h2>
